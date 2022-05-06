@@ -1,5 +1,5 @@
 var cs = { 
-  "apiKey": 'AIzaSyBff0KCstNSBQI5C8BNcO5DuHnMEyILgVk', 
-  "authDomain": 'table-champ-work.firebaseapp.com', 
-  "databaseURL": 'https://table-champ-work.firebaseio.com' 
+  "apiKey": 'AIzaSyBxVR8AcYKGLJNSVXM_G_xgb9DUbFpd95U', 
+  "authDomain": 'cgtech-table-champ.firebaseapp.com', 
+  "databaseURL": 'https://cgtech-table-champ.firebaseio.com' 
 };
